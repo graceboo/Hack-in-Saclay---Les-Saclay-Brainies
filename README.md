@@ -1,3 +1,5 @@
+Nous sommes une équipe de 5 étudiants.
+
 Voilà l'essentiel de notre code que nous avons produit lors de ce Hackhathon. 
 
 Pour faire tourner les codes de RAG, il faut mettre les dossiers CCN52, CCPMA santé ODA et Régime d'adhésion dans le dossier de racine du projet. 
